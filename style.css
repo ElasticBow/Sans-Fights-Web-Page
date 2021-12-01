@@ -53,3 +53,13 @@ img {
     height: 20px;
     background-color: white;
 }
+.copy_right_footer 
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: lightblue;
+    line-height: 2;
+    text-align: center;
+}
